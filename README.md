@@ -7,10 +7,6 @@
 
 I am just starting out in the field of computer security. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to IT began with the school Olympiads on inforamatics. And now I am a student as Tomsk State University. From many faculties I chose the Institute of Applied Mathematics and Computer Science, or rather Computer Security.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 ---
 
 ### 🤝 Социальные сети:
@@ -23,7 +19,6 @@ I am just starting out in the field of computer security. <img src="https://medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-plain.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
 </div>
 
 ---
