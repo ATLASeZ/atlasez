@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-I am just starting out in the field of computer security. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to IT began with the school Olympiads on informatics. And now I am a student at Tomsk State University. From many faculties I chose the Institute of Applied Mathematics and Computer Science, or rather Computer Security.
+I am just starting out in the field of computer security. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey to IT began with the school Olympiads on informatics. And now I am a student at Tomsk State University. From many faculties I chose the Institute of Applied Mathematics and Computer Science.
 
 ---
 
